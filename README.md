@@ -1,2 +1,2 @@
 # Weather_Prediction
-In this project, different ML models will be used in an attempt to predict weather. This also will determine the best model that fits our datasets using the accuracy score.
+In this project, different ML models where be used in an attempt to predict weather. The best model was determined using accuracy score. Furthermore, to avoid overfitting of our training data, our models were pruned to determine optimal hyperparameter.
